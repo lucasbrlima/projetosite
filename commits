@@ -1,0 +1,17 @@
+GITHUB: lucasbrlima/projetosite   (senha: lucasbrlima)
+
+HEROKU: lucasrdlima.1995@gmail.com  (senha: 31031995-l)
+
+dominio HEROKU : project-php.herokuapp.com
+
+
+NO GIT
+
+
+
+
+git config --global user.name "Lucas Barros"
+
+git config --global user.email "lucasrdlima.1995@gmail.com"
+
+config list --
